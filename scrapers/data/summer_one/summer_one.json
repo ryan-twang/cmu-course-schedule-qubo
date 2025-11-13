@@ -1,0 +1,5212 @@
+[
+  {
+    "course": "Course",
+    "title": "Title",
+    "units": "Units",
+    "lec_sec": "Lec/Sec",
+    "days": "Days",
+    "begin": "Begin",
+    "end": "End",
+    "location": "Location"
+  },
+  {
+    "course": "Architecture",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "48519",
+    "title": "Architecture Design Studio: Thesis II/ Independent Project",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48599",
+    "title": "Independent Study",
+    "units": "3-9",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48600",
+    "title": "ASO Studio General",
+    "units": "18.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48695",
+    "title": "Internship (Studio-Based Graduate Programs):",
+    "units": "3.0",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Master of Architecture",
+    "units": null,
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Internship (Studio-Based Graduate Programs):",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Master of Urban Design",
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Internship (Studio-Based Graduate Programs):",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Master of Advanced Architectural Design",
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48700",
+    "title": "Practicum",
+    "units": "0-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48703",
+    "title": "Master's Project",
+    "units": "18-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48704",
+    "title": "Internship (MS & PhD)",
+    "units": "0-18",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48731",
+    "title": "Sustainable Design Synthesis Prep",
+    "units": "1-18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48732",
+    "title": "Sustainable Design Synthesis",
+    "units": "0,12,24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48736",
+    "title": "Master's Independent Study",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48769",
+    "title": "Thesis/Project",
+    "units": "VAR",
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48785",
+    "title": "MAAD Research by Design Project",
+    "units": "18.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48791",
+    "title": "M.S. Project",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48792",
+    "title": "Ph.D. Independent Study",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48793",
+    "title": "Ph.D. Thesis",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "48794",
+    "title": "Graduate Reading and Research",
+    "units": "5,36,48",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Art",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "60399",
+    "title": "Art History/Theory Independent Study",
+    "units": "9.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "60499",
+    "title": "Studio Independent Study",
+    "units": "5-10",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "BXA Intercollege Degree Programs",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "Biological Sciences",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "03210",
+    "title": "Independent Study",
+    "units": "1-12",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "03320",
+    "title": "Cell Biology",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "03445",
+    "title": "Undergraduate Research",
+    "units": "1-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "W",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "X",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "Y",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "03600",
+    "title": "Biotechnology or Biopharmaceutical Engineering Internship",
+    "units": "3.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "03699",
+    "title": "MS Research",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "03700",
+    "title": "MS Thesis Research",
+    "units": "6-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "03900",
+    "title": "Doctoral Thesis Research",
+    "units": "5-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Biomedical Engineering",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "42300",
+    "title": "Junior BME Research Project",
+    "units": "3-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42400",
+    "title": "Senior BME Research Project",
+    "units": "3-18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42790",
+    "title": "Practicum in Biomedical Engineering",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42799",
+    "title": "Directed Study",
+    "units": "3-9",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42882",
+    "title": "Tissue Engineering",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "W",
+    "begin": "07:00PM",
+    "end": "08:30PM",
+    "location": "Unknown Location"
+  },
+  {
+    "course": "42890",
+    "title": "M.S. Research",
+    "units": "9-48 4",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42891",
+    "title": "M.S. External Research",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42899",
+    "title": "M.S. Research Final Report",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42990",
+    "title": "Ph.D. Thesis Research",
+    "units": "3-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42994",
+    "title": "Special Topics: Technical Communication for Biomedical Engineers - Fellowship",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "M",
+    "begin": "09:30AM",
+    "end": "01:00PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42997",
+    "title": "Ph.D. Qualifying Assessment",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42998",
+    "title": "Ph.D. Proposal",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "42999",
+    "title": "Ph.D Thesis Defense",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Business Administration",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "45985",
+    "title": "Product Management for and by Product Managers",
+    "units": "12.0",
+    "lec_sec": "M",
+    "days": "T",
+    "begin": "07:00PM",
+    "end": "09:45PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "45990",
+    "title": "Management Game",
+    "units": "12.0",
+    "lec_sec": "M",
+    "days": "W",
+    "begin": "08:30PM",
+    "end": "09:45PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "46999",
+    "title": "MSCF Summer Internship",
+    "units": "3.0",
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "New York, New York"
+  },
+  {
+    "course": "47900",
+    "title": "Tepper PhD",
+    "units": "1-36",
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "47995",
+    "title": "Graduate Reading & Research",
+    "units": "12,36",
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "47998",
+    "title": "Tepper PhD Internship",
+    "units": "3-36",
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "70257",
+    "title": "Optimization for Business",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "03:30PM",
+    "end": "04:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "70311",
+    "title": "Organizational Behavior",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "70381",
+    "title": "Marketing I:",
+    "units": "9.0",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "TBA",
+    "units": null,
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "70391",
+    "title": "Finance",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "02:00PM",
+    "end": "03:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "70417",
+    "title": "Topics in Entrepreneurship",
+    "units": "9.0",
+    "lec_sec": "W",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "CFA Interdisciplinary",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "CIT Interdisciplinary",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "CIT Internship",
+    "units": null,
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "39405",
+    "title": "CIT Leadership Independent Study",
+    "units": "9.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "39500",
+    "title": "Honors Research Project:",
+    "units": "1-36",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "CIT Honors Research Project",
+    "units": null,
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "39660",
+    "title": "Masters EST&P Project:",
+    "units": "VAR",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "EST&P Project Course",
+    "units": null,
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "CM Institute for Strategy and Tech",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "84499",
+    "title": "Independent Study",
+    "units": "3-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "84505",
+    "title": "Undergraduate Internship",
+    "units": "3,6,9",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "84705",
+    "title": "CMIST Graduate Internship",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "84781",
+    "title": "MITS Capstone Project",
+    "units": "36.0",
+    "lec_sec": "A",
+    "days": "M",
+    "begin": "10:00AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "84798",
+    "title": "Independent Study",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "84799",
+    "title": "Graduate Thesis",
+    "units": "18.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "84998",
+    "title": "Graduate Reading and Research",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Carnegie Mellon University-Wide Studies",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Summer UG Research Apprenticeship",
+    "units": null,
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "W",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "99405",
+    "title": "Summer Directed Study",
+    "units": "3-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "99409",
+    "title": "Summer Research",
+    "units": "1.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "99411",
+    "title": "Summer Internship",
+    "units": "9-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "W",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "99412",
+    "title": "Summer Internship",
+    "units": "1.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "99520",
+    "title": "Collaborative Research through Projects:",
+    "units": "VAR",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Applied Software Engineering for the Real World with Distributed Teams",
+    "units": null,
+    "lec_sec": "A",
+    "days": "MTW",
+    "begin": "08:00AM",
+    "end": "09:20AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Understanding Generative AI Literacy Development: Systematic Review Research",
+    "units": null,
+    "lec_sec": "B",
+    "days": "W",
+    "begin": "01:00PM",
+    "end": "03:00PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Bridging Eyes and Minds: Collaborative Eye-Tracking Research",
+    "units": null,
+    "lec_sec": "C",
+    "days": "M",
+    "begin": "08:00PM",
+    "end": "10:00PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Skyglow: Where Have All the Stars Gone?",
+    "units": null,
+    "lec_sec": "D",
+    "days": "T",
+    "begin": "06:00PM",
+    "end": "09:00PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Behavioral Economics Research Workshop",
+    "units": null,
+    "lec_sec": "L",
+    "days": "T",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Photovoice Approach: Understanding Experiences of Arts & Humanities Majors",
+    "units": null,
+    "lec_sec": "M",
+    "days": "TR",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Sensational Sounds",
+    "units": null,
+    "lec_sec": "N",
+    "days": "TR",
+    "begin": "11:00AM",
+    "end": "01:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Abroad Creative Nantes: Exploring French Culture through Immersive Digital Media",
+    "units": null,
+    "lec_sec": "O",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Abroad - Tropical Ecology",
+    "units": null,
+    "lec_sec": "P",
+    "days": "MTWRF",
+    "begin": "08:00AM",
+    "end": "11:00AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Abroad - Study Abroad Experience in Statistics and Data Science",
+    "units": null,
+    "lec_sec": "Q",
+    "days": "TR",
+    "begin": "09:00AM",
+    "end": "12:00PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Applied Software Engineering for the Real World with Distributed Teams",
+    "units": null,
+    "lec_sec": "W",
+    "days": "MTW",
+    "begin": "03:00PM",
+    "end": "04:20PM",
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": null,
+    "title": "Collaborative Research through Projects:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Framing Identities: Exploring Minority, Class, Caste, Religion, and Gender",
+    "units": null,
+    "lec_sec": "Y",
+    "days": "MW",
+    "begin": "11:00AM",
+    "end": "12:30PM",
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "Chemical Engineering",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "06400",
+    "title": "Senior Research Project",
+    "units": "3-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "06405",
+    "title": "Independent Study",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "06600",
+    "title": "Masters Chemical Engineering Project",
+    "units": "1-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "06803",
+    "title": "Graduate Reading and Research",
+    "units": "5,18,36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Chemistry",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "09050",
+    "title": "Study Abroad",
+    "units": "0.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "09106",
+    "title": "Modern Chemistry II",
+    "units": "10.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": "T",
+    "begin": "02:00PM",
+    "end": "02:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "09217",
+    "title": "Organic Chemistry I",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "09435",
+    "title": "Independent Study Chemistry",
+    "units": "1.0 - 12.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "09445",
+    "title": "Undergraduate Research",
+    "units": "3-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "W",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "09861",
+    "title": "Chemical Research",
+    "units": "0-99",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "09871",
+    "title": "Doctoral Dissertation",
+    "units": "5.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "09990",
+    "title": "Internship",
+    "units": "0-99",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Civil & Environmental Engineering",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "12791",
+    "title": "Graduate Project",
+    "units": "0-99",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "12792",
+    "title": "Advanced Independent Study",
+    "units": "0-99",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "12799",
+    "title": "Ph.D. Thesis",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "12993",
+    "title": "Reading and Research in Civil and Environmental Engineering",
+    "units": "5,18,36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "12995",
+    "title": "Internship in Civil and Environmental Engineering",
+    "units": "1-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Computational Biology",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "02700",
+    "title": "M.S. Thesis Research",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "02900",
+    "title": "Ph.D. Thesis Research",
+    "units": "1-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Computer Science",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "15150",
+    "title": "Principles of Functional Programming",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TWR",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": "TWR",
+    "begin": "02:00PM",
+    "end": "03:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "15213",
+    "title": "Introduction to Computer Systems",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "15503",
+    "title": "Introduction to Computer Systems",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "15591",
+    "title": "Independent Study in Computer Science",
+    "units": "3-18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "W",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "15639",
+    "title": "Independent Study in Computer Science Pedagogy",
+    "units": "3-18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "15689",
+    "title": "Independent Study in the Computer Sciences",
+    "units": "3-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "15697",
+    "title": "Graduate Reading and Research",
+    "units": "1-48",
+    "lec_sec": "RA",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "RB",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "15698",
+    "title": "MSCS Research Thesis",
+    "units": "1-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "15997",
+    "title": "Graduate Reading and Research",
+    "units": "1-60",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Design",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "51368",
+    "title": "Moving Pictures",
+    "units": "9.0",
+    "lec_sec": "W",
+    "days": "UMTWR",
+    "begin": "01:00PM",
+    "end": "02:30PM",
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "51720",
+    "title": "Design Research",
+    "units": "5-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "51850",
+    "title": "Design Thesis Project",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Dietrich College Interdisciplinary",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "66501",
+    "title": "Dietrich College Senior Honors Thesis I",
+    "units": "9.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "66502",
+    "title": "Dietrich College Senior Honors Thesis II",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Drama",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "54191",
+    "title": "Acting for Non-Majors",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "54597",
+    "title": "Graduate Reading & Research",
+    "units": "5.0",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "54970",
+    "title": "Directed Study in PTM Monograph:",
+    "units": "9-18",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Stage & Production Management Thesis",
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Electrical & Computer Engineering",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "18351",
+    "title": "Full-Stack Software Development for Engineers",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "06:00PM",
+    "end": "07:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "18390",
+    "title": "ECE CO-OP",
+    "units": "0-3",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "18570",
+    "title": "Summer Undergraduate Student-Directed Projects",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "18580",
+    "title": "Undergraduate Projects",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "18613",
+    "title": "Foundations of Computer Systems",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TWR",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "SV",
+    "days": "TWR",
+    "begin": "06:30AM",
+    "end": "07:50AM",
+    "location": "San Jose, California"
+  },
+  {
+    "course": "18651",
+    "title": "Full-Stack Software Development for Engineers",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "06:00PM",
+    "end": "07:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "SV",
+    "days": "TR",
+    "begin": "03:00PM",
+    "end": "04:50PM",
+    "location": "San Jose, California"
+  },
+  {
+    "course": "18970",
+    "title": "Summer Graduate Student-Directed Projects",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "18980",
+    "title": "M.S. Graduate Project I",
+    "units": "0-48",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "SV",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "San Jose, California"
+  },
+  {
+    "course": "18990",
+    "title": "Reading and Research",
+    "units": "0-48",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "SV",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "San Jose, California"
+  },
+  {
+    "course": "18994",
+    "title": "Internship for Electrical and Computer Engineering MS Students",
+    "units": "3.0",
+    "lec_sec": "SI",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "San Jose, California"
+  },
+  {
+    "course": "18996",
+    "title": "Internship one for Electrical and Computer Engineering PhD Students",
+    "units": "VAR",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": "18997",
+    "title": "Internship Two for Electrical and Computer Engineering PhD Students",
+    "units": "VAR",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": "18998",
+    "title": "Internship Three Electrical and Computer Engineering PhD Students",
+    "units": "VAR",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": "Engineering & Public Policy",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "19500",
+    "title": "Directed Study in EPP: Undergraduate",
+    "units": "0-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "19550",
+    "title": "Undergraduate Research",
+    "units": "0-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "19690",
+    "title": "M.S. Project",
+    "units": "3-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "19770",
+    "title": "Research Practicum in EPP",
+    "units": "0,5,18,36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "19797",
+    "title": "Reading and Research: Project Research",
+    "units": "5,18,36",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "19798",
+    "title": "Reading and Research: Thesis Research",
+    "units": "5,18,36",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "English",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Politics & Ideology in the Marvel Cinematic Universe",
+    "units": null,
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76239",
+    "title": "Introduction to Film Studies",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76241",
+    "title": "Introduction to Gender Studies",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76260",
+    "title": "Introduction to Writing Fiction",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76270",
+    "title": "Writing for the Professions",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "T",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76456",
+    "title": "Independent Study in Film & Media Studies",
+    "units": "VAR",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76707",
+    "title": "Independent Study in Professional Writing",
+    "units": "3-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76900",
+    "title": "Independent Study in Rhetoric",
+    "units": "3-18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76901",
+    "title": "Independent Study in Literary and Cultural Studies",
+    "units": "3-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "76990",
+    "title": "Graduate Reading and Research",
+    "units": "36.0",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Entertainment Technology",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "53689",
+    "title": "Entertainment Technology Center Independent Study",
+    "units": "3-30",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Heinz College Wide Courses",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "History",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "79158",
+    "title": "Beyond Integration: African American Community Building, Reconstruction to 1960s",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "79234",
+    "title": "Technology and Society",
+    "units": "9.0",
+    "lec_sec": "W",
+    "days": "UMTWR",
+    "begin": "11:00AM",
+    "end": "12:30PM",
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "79297",
+    "title": "Technology and Work",
+    "units": "9.0",
+    "lec_sec": "W",
+    "days": "UMTWR",
+    "begin": "01:00PM",
+    "end": "02:30PM",
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "79491",
+    "title": "Independent Study",
+    "units": "3-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "79893",
+    "title": "History Dissertation",
+    "units": "5-36",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "79896",
+    "title": "Graduate Reading and Research",
+    "units": "36.0",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Human-Computer Interaction",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "05672",
+    "title": "MHCI Project II",
+    "units": "48.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "05680",
+    "title": "Independent Study in HCI - METALS",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "05682",
+    "title": "METALS Project 2",
+    "units": "48.0",
+    "lec_sec": "A",
+    "days": "W",
+    "begin": "04:00PM",
+    "end": "05:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "05683",
+    "title": "METALS Capstone II Part I",
+    "units": "24.0",
+    "lec_sec": "S",
+    "days": "W",
+    "begin": "04:00PM",
+    "end": "05:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "05689",
+    "title": "Independent Study in HCI - Grad",
+    "units": "0-48",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "05888",
+    "title": "Practicum in HCI",
+    "units": "3-48",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "05997",
+    "title": "Reading and Research in HCI",
+    "units": "24-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "RR",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": "Information Networking Institute",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "Silicon Valley Residency",
+    "units": null,
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "San Jose, California"
+  },
+  {
+    "course": "14700",
+    "title": "INI Project/Thesis Research",
+    "units": "0-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "14706",
+    "title": "Information Networking Project",
+    "units": "0-42",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "14707",
+    "title": "Information Networking Thesis",
+    "units": "6-42",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "14708",
+    "title": "INI Independent Study",
+    "units": "0-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "San Jose, California"
+  },
+  {
+    "course": "14709",
+    "title": "INI Project-Japan",
+    "units": "0-42",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "14828",
+    "title": "Browser Security",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "UMTWR",
+    "begin": "06:00AM",
+    "end": "07:30AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Information Systems Program",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "67316",
+    "title": "Human Computer Interface Design and Testing",
+    "units": "9.0",
+    "lec_sec": "W",
+    "days": "UMTWR",
+    "begin": "11:00AM",
+    "end": "12:30PM",
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "67390",
+    "title": "Independent Study in Information Systems",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "67393",
+    "title": "Guided Research in Information Systems",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "L",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "N",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "O",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "67505",
+    "title": "Information Systems Internship",
+    "units": "1-3",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "W",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Doha, Qatar"
+  },
+  {
+    "course": "67731",
+    "title": "Technology Consulting in the Global Community",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Information Systems:Sch of IS & Mgt",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "95565",
+    "title": "Introduction to Information Security",
+    "units": "9.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "02:00PM",
+    "end": "03:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95566",
+    "title": "Introduction to Cyber Intelligence",
+    "units": "9.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "03:30PM",
+    "end": "04:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95705",
+    "title": "Telecommunications Management",
+    "units": "12.0",
+    "lec_sec": "Z",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95712",
+    "title": "Object Oriented Programming in JAVA",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95720",
+    "title": "Information Systems Project",
+    "units": "0-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "L",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "N",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "O",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "P",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "Z",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95752",
+    "title": "Introduction to Information Security Management",
+    "units": "12.0",
+    "lec_sec": "Z",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95901",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95902",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95903",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95904",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95905",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95906",
+    "title": "Independent Study",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95907",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95908",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95909",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95910",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95911",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95912",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95913",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95914",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "95915",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Integrated Innovation Institute",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "49605",
+    "title": "User Experience Research for Digital and Physical Products",
+    "units": "10.0",
+    "lec_sec": "A",
+    "days": "R",
+    "begin": "08:00PM",
+    "end": "09:30PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "49606",
+    "title": "Understanding Markets for Products & Services",
+    "units": "10.0",
+    "lec_sec": "A",
+    "days": "M",
+    "begin": "11:00AM",
+    "end": "12:30PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "49607",
+    "title": "Product Strategy & Planning",
+    "units": "10.0",
+    "lec_sec": "A",
+    "days": "T",
+    "begin": "08:00PM",
+    "end": "09:30PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "49790",
+    "title": "Software Management Independent Study",
+    "units": "3,6,12,24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "San Jose, California"
+  },
+  {
+    "course": "49791",
+    "title": "Software Management Capstone Project",
+    "units": "3,6,12,24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "San Jose, California"
+  },
+  {
+    "course": "49797",
+    "title": "Special Topics: Advanced AI in Bosch Projects",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "T",
+    "begin": "05:30PM",
+    "end": "07:20PM",
+    "location": "San Jose, California"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "T",
+    "begin": "05:30PM",
+    "end": "07:20PM",
+    "location": "San Jose, California"
+  },
+  {
+    "course": "Language Technologies Institute",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "11637",
+    "title": "Foundations of Computational Data Science",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "08:00AM",
+    "end": "09:20AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "11673",
+    "title": "Foundations of Computational Data Science",
+    "units": "12.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "08:30PM",
+    "end": "09:50PM",
+    "location": "Unknown Location"
+  },
+  {
+    "course": "11910",
+    "title": "Directed Research",
+    "units": "1-48",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "11920",
+    "title": "Independent Study: Breadth",
+    "units": "1-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "11927",
+    "title": "MIIS Capstone Project",
+    "units": "36.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "11930",
+    "title": "Dissertation Research",
+    "units": "1-48",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "11935",
+    "title": "LTI Practicum",
+    "units": "1-36",
+    "lec_sec": "P",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "11936",
+    "title": "PhD Internship",
+    "units": "VAR",
+    "lec_sec": "P",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Languages Cultures & Appl Linguistics",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "82119",
+    "title": "Arabic Calligraphy Culture & Skills",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "10:30AM",
+    "end": "11:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82133",
+    "title": "Elementary Chinese Online I",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82134",
+    "title": "Elementary Chinese Online II",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82139",
+    "title": "Chinese Language, Culture and Society",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82146",
+    "title": "Intensive Spanish Language and Culture: Elementary Level",
+    "units": "3-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82171",
+    "title": "Elementary Japanese I",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "08:00AM",
+    "end": "09:20AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82172",
+    "title": "Elementary Japanese II",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82187",
+    "title": "Documentary, Found Sound, and Hidden Frequencies in Language and Culture",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "TR",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82195",
+    "title": "Eastern European Society and Culture",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82246",
+    "title": "Intensive Spanish Language and Culture: Intermediate Level",
+    "units": "3-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82271",
+    "title": "Intermediate Japanese I",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82278",
+    "title": "Japanese Film and Literature: The Art of Storytelling",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82279",
+    "title": "Anime - Visual Interplay between Japan and the World",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82283",
+    "title": "Language Diversity & Cultural Identity",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82293",
+    "title": "Russian Cinema: From the Bolshevik Revolution to Putin's Russia",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82295",
+    "title": "20th Century Russian Masterpieces",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82346",
+    "title": "Intensive Spanish Language and Culture: Advanced Level",
+    "units": "18,24",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82412",
+    "title": "Topics in Arabic Studies",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWR",
+    "begin": "08:00AM",
+    "end": "09:20AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82439",
+    "title": "Black Myth: Wukong and the Journey to the West",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82444",
+    "title": "The Structure of Spanish",
+    "units": "6.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82451",
+    "title": "Studies in Latin American Literature and Culture",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82505",
+    "title": "LCAL Undergraduate Internship",
+    "units": "1-18",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82541",
+    "title": "Special Topics in Hispanic Studies",
+    "units": "3-12",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82789",
+    "title": "Guided Research",
+    "units": "3-36",
+    "lec_sec": "S",
+    "days": "MR",
+    "begin": "11:00AM",
+    "end": "12:30PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82988",
+    "title": "Graduate Reading and Research",
+    "units": "5,18,36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "RA",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "RB",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "RC",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "82989",
+    "title": "Second Language Acquisition Dissertation Research",
+    "units": "3-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "MCS Interdisciplinary",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "38110",
+    "title": "ENGAGE in Service",
+    "units": "1.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "38220",
+    "title": "ENGAGE in the Arts",
+    "units": "2.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Machine Learning",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "10520",
+    "title": "Independent Study",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "10620",
+    "title": "Independent Study: Research",
+    "units": "6,12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "10697",
+    "title": "Reading and Research",
+    "units": "1-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "10920",
+    "title": "Graduate Reading and Research",
+    "units": "12-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "10930",
+    "title": "Dissertation Research",
+    "units": "5-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Materials Science & Engineering",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "27454",
+    "title": "Supervised Reading",
+    "units": "3-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "27555",
+    "title": "Materials Project I",
+    "units": "6,9",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "27556",
+    "title": "Materials Project II",
+    "units": "6,9",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "27675",
+    "title": "Masters Report",
+    "units": "0.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "27756",
+    "title": "Masters Project",
+    "units": "1-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "27773",
+    "title": "Graduate Reading and Research",
+    "units": "5,18,36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "27775",
+    "title": "Thesis",
+    "units": "1-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "27995",
+    "title": "Internship",
+    "units": "1-48",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Mathematical Sciences",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "21122",
+    "title": "Integration and Approximation",
+    "units": "10.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21127",
+    "title": "Concepts of Mathematics",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21241",
+    "title": "Matrices and Linear Transformations",
+    "units": "11.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21254",
+    "title": "Linear Algebra and Vector Calculus for Engineers",
+    "units": "11.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": "T",
+    "begin": "02:00PM",
+    "end": "03:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21256",
+    "title": "Multivariate Analysis",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21259",
+    "title": "Calculus in Three Dimensions",
+    "units": "10.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21260",
+    "title": "Differential Equations",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21325",
+    "title": "Probability",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21355",
+    "title": "Principles of Real Analysis I",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21373",
+    "title": "Algebraic Structures",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21599",
+    "title": "Undergraduate Reading and Research",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "T",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21900",
+    "title": "Doctoral Reading and Research",
+    "units": "0-99",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21901",
+    "title": "Master's Degree Research",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "21902",
+    "title": "Doctoral Thesis Research",
+    "units": "0-99",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Mechanical Engineering",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "24391",
+    "title": "Mechanical Engineering Project",
+    "units": "3-12,18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "24392",
+    "title": "Mechanical Engineering Project",
+    "units": "3-18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "24491",
+    "title": "Department Research Honors",
+    "units": "3-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "24492",
+    "title": "Department Research Honors",
+    "units": "3-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "24793",
+    "title": "Supervised Reading",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "24794",
+    "title": "Master of Science Research",
+    "units": "0-99",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "24796",
+    "title": "Graduate Reading and Research",
+    "units": "0-99",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Medical Management:Sch of Pub Pol & Mgt",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "Music",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "57188",
+    "title": "Repertoire and Listening for Musicians",
+    "units": "1.0",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "57690",
+    "title": "Practicum",
+    "units": "0-3",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Neuroscience Institute",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "86800",
+    "title": "PhD Thesis Research",
+    "units": "6-60",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Philosophy",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "80150",
+    "title": "Nature of Reason",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "80210",
+    "title": "Logic and Proofs",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "TR",
+    "begin": "03:30PM",
+    "end": "04:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "80495",
+    "title": "Independent Study",
+    "units": "3,6,9,12",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "80990",
+    "title": "Directed Reading",
+    "units": "3-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "80991",
+    "title": "Thesis Research",
+    "units": "5-18,24",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "80993",
+    "title": "Dissertation Defense",
+    "units": "5-36",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "80998",
+    "title": "Reading and Research",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Physics",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "33104",
+    "title": "Experimental Physics",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "03:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "33141",
+    "title": "Physics I for Engineering Students",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "01:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "33142",
+    "title": "Physics II for Engineering and Physics Students",
+    "units": "12.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "12:30PM",
+    "end": "02:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "33495",
+    "title": "Internship",
+    "units": "3-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "33997",
+    "title": "Graduate Laboratory",
+    "units": "1-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "33998",
+    "title": "Thesis Research",
+    "units": "1-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Psychology",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "85482",
+    "title": "Internship in Psychology",
+    "units": "3-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "85781",
+    "title": "Graduate Reading and Research",
+    "units": "0-99",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "85850",
+    "title": "Psychology of Prejudice",
+    "units": "9,12",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Public Management:Sch of Pub Pol & Mgt",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "Public Policy & Mgt:Sch of Pub Pol & Mgt",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "90452",
+    "title": "Applied Statistics for Public Policy",
+    "units": "9.0",
+    "lec_sec": "A",
+    "days": "MW",
+    "begin": "10:00AM",
+    "end": "11:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": "F",
+    "begin": "10:00AM",
+    "end": "11:20AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90453",
+    "title": "Data Analytics for Social Good",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "03:30PM",
+    "end": "04:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90454",
+    "title": "Applied Economics",
+    "units": "9.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "01:30PM",
+    "end": "03:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": "F",
+    "begin": "01:30PM",
+    "end": "02:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90455",
+    "title": "Applied Public Policy Project",
+    "units": "3.0",
+    "lec_sec": "A",
+    "days": "T",
+    "begin": "11:30AM",
+    "end": "01:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90471",
+    "title": "Poverty and Social Policies",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TR",
+    "begin": "10:00AM",
+    "end": "11:20AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90490",
+    "title": "Independent Study",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90701",
+    "title": "Practicum",
+    "units": "1-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90900",
+    "title": "Internship",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90925",
+    "title": "Ph.D. Readings and Research",
+    "units": "1-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90932",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90934",
+    "title": "Independent Study",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90935",
+    "title": "Independent Study",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90936",
+    "title": "Independent Study",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90937",
+    "title": "Independent Study",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90938",
+    "title": "Independent Study",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90939",
+    "title": "Independent Study",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90940",
+    "title": "Independent Study",
+    "units": "1-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90941",
+    "title": "Independent Study",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90942",
+    "title": "Independent Study",
+    "units": "1-24",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "90943",
+    "title": "Independent Study",
+    "units": "1-12",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Robotics",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "16595",
+    "title": "Undergraduate Independent Study",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "16597",
+    "title": "Undergraduate Reading and Research",
+    "units": "0-48",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "16695",
+    "title": "Independent Study",
+    "units": "VAR",
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "16991",
+    "title": "Internship:",
+    "units": "3-36",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "TBA",
+    "units": null,
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Internship:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "TBA",
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "16995",
+    "title": "Independent Study",
+    "units": "0-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "16997",
+    "title": "Reading and Research in Robotics",
+    "units": "0-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "SCS Interdisciplinary",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "Social & Decision Sciences",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "T",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "88399",
+    "title": "Undergraduate Research",
+    "units": "1-18",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "88998",
+    "title": "Graduate Reading and Research",
+    "units": "0-36",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Software & Societal Systems",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": "17606",
+    "title": "Privacy by Design Project Workshop",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17607",
+    "title": "Privacy by Design Practicum",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17608",
+    "title": "Privacy Engineering Independent Study",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17636",
+    "title": "DevOps: Engineering for Secure Development and Deployment",
+    "units": "12.0",
+    "lec_sec": "D",
+    "days": "TR",
+    "begin": "07:00PM",
+    "end": "08:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17672",
+    "title": "Studio Project II",
+    "units": "36.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17679",
+    "title": "Thesis Writing for Industrial Software Research",
+    "units": "6.0",
+    "lec_sec": "D",
+    "days": "W",
+    "begin": "05:00PM",
+    "end": "06:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17694",
+    "title": "Reading and Research",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17697",
+    "title": "Directed Study:",
+    "units": "VAR",
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "MSE THESIS Research",
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17699",
+    "title": "Independent Study",
+    "units": "3-27",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17802",
+    "title": "Societal Computing Pre-Thesis",
+    "units": "6.0",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "L",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "O",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "P",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "Q",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17993",
+    "title": "Societal Computing Graduate Reading and Research",
+    "units": "VAR",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "T",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17996",
+    "title": "Societal Computing Independent Study",
+    "units": "VAR",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "B",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "C",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "D",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "L",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "M",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "N",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": "Societal Computing Independent Study:",
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": "SC Independent Study",
+    "units": null,
+    "lec_sec": "O",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "17997",
+    "title": "Graduate Reading and Research",
+    "units": "1-48",
+    "lec_sec": "PP",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Lisbon, Portugal"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": "T",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "Statistics and Data Science",
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": null,
+    "begin": null,
+    "end": null,
+    "location": ""
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": "TR",
+    "begin": "09:30AM",
+    "end": "10:50AM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "36225",
+    "title": "Introduction to Probability Theory",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MTWRF",
+    "begin": "11:00AM",
+    "end": "12:20PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "36315",
+    "title": "Statistical Graphics and Visualization",
+    "units": "9.0",
+    "lec_sec": "S",
+    "days": "MWF",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": null,
+    "title": null,
+    "units": null,
+    "lec_sec": null,
+    "days": "TR",
+    "begin": "12:30PM",
+    "end": "01:50PM",
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "36495",
+    "title": "Independent Study",
+    "units": "0-36",
+    "lec_sec": "S",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "36695",
+    "title": "Independent Study",
+    "units": "0-36",
+    "lec_sec": "A",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  },
+  {
+    "course": "36995",
+    "title": "Reading and Research",
+    "units": "1-48",
+    "lec_sec": "R",
+    "days": "TBA",
+    "begin": null,
+    "end": null,
+    "location": "Pittsburgh, Pennsylvania"
+  }
+]
