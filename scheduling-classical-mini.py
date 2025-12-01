@@ -5,6 +5,9 @@
 # Classical Baseline Solver for Quantum Optimization Project (QUBO Phase 1)
 # Uses clean CSV data to build and solve a feasibility model in Gurobi.
 #
+
+# Mini Version
+
 import gurobipy as gp
 from gurobipy import GRB
 import pandas as pd
@@ -13,20 +16,21 @@ from datetime import datetime
 import math
 from typing import List, Dict, Set, Tuple, Any
 
-# TODO: Double check class duration constraint
 
 # --- 1. CONFIGURATION ---
 
 # NOTE: The course list is already filtered to ECE ('18') in the CSV.
 LOCAL_SCHEDULE_FILEPATH = 'F24-Schedule-ECE.csv' 
-MAX_ROOMS_ALLOWED = 50
-TIME_SLOT_HOURS = range(8, 22) # Use 8 AM to 10 PM (22:00) for time slots
+MAX_ROOMS_ALLOWED = 2
+MAX_NUM_COURSES = 3
+TIME_SLOT_HOURS = range(8, 11) # Use 8 AM to 10 PM (22:00) for time slots
 
 # --- 2. DATA LOADING AND FEATURE CONSTRUCTION ---
 
 def build_time_slots(time_hours: range) -> List[str]:
     """Generates a list of discrete hourly time slots (e.g., 'Mon_09:00')."""
-    days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+    # days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+    days = ["Mon"]
     hours = [f"{h:02d}:00" for h in time_hours]
     return [f"{day}_{hour}" for day in days for hour in hours]
 
@@ -65,26 +69,30 @@ def load_and_map_features(filepath: str) -> Tuple[List[str], List[str], List[str
     df = df[df['DAYS'] != 'TBA']
     df = df[df['INSTRUCTOR'].str.lower() != 'tba']
     df = df[~df['COURSE TITLE'].str.contains('Cancelled', case=False)]
+
+    # MINI: Only take first 20 courses
+    df_mini = df[:MAX_NUM_COURSES].copy()
+    print(f"[DEBUG] Truncated dataset to {len(df)} sections for testing.")
     
     # Use the combination of Course Number and Section ID as the unique Meeting ID
-    df['MeetingID'] = df['COURSE'].astype(str) + '-' + df['SEC']
+    df_mini['MeetingID'] = df_mini['COURSE'].astype(str) + '-' + df_mini['SEC']
 
     # Handle multiple instructors in the 'INSTRUCTOR' column (e.g., "Last, First; Other, Name")
-    df['INSTRUCTORS'] = df['INSTRUCTOR'].str.split(';').apply(lambda x: [i.strip() for i in x])
+    df_mini['INSTRUCTORS'] = df_mini['INSTRUCTOR'].str.split(';').apply(lambda x: [i.strip() for i in x])
     
     # 1. Calculate Duration (The Greedy Rounding)
     # Instead of mapping to specific times (e.g. "Mon_09:00"), we calculate 
     # how many integer slots are needed (e.g. 80mins -> 2 slots).
     # Uses helper function 'calculate_duration_slots' above
-    df['DurationSlots'] = df.apply(
+    df_mini['DurationSlots'] = df_mini.apply(
         lambda row: calculate_duration_slots(row['BEGIN'], row['END']), axis=1
     )
 
     # 2. Create a clean "Meetings" dataframe
     # We drop duplicates so each Section (MeetingID) appears exactly once.
     # This creates the "master list" of what needs to be scheduled.
-    initial_count = len(df)
-    meeting_df = df.drop_duplicates(subset=['MeetingID'])
+    initial_count = len(df_mini)
+    meeting_df = df_mini.drop_duplicates(subset=['MeetingID'])
     dropped_count = initial_count - len(meeting_df)
     print(f"\n[Data] Dropped {dropped_count} duplicate rows.")
 
@@ -93,8 +101,8 @@ def load_and_map_features(filepath: str) -> Tuple[List[str], List[str], List[str
     
     # Extract unique rooms and instructors directly from the raw data
     # (No need to explode by time slots anymore to get this list)
-    all_rooms_raw = df['BLDG/ROOM'].unique().tolist()
-    all_instructors = df['INSTRUCTORS'].explode().unique().tolist()
+    all_rooms_raw = df_mini['BLDG/ROOM'].unique().tolist()
+    all_instructors = df_mini['INSTRUCTORS'].explode().unique().tolist()
 
     # 4. Create the Duration Map
     # This is the key new dictionary the Gurobi solver needs to check conflicts.
@@ -108,17 +116,25 @@ def load_and_map_features(filepath: str) -> Tuple[List[str], List[str], List[str
     timeslots_list = build_time_slots(TIME_SLOT_HOURS)
 
     # Create mapping of meeting ID to list of instructors
-    meeting_instructors_map = df.set_index('MeetingID')['INSTRUCTORS'].to_dict()
+    meeting_instructors_map = df_mini.set_index('MeetingID')['INSTRUCTORS'].to_dict()
 
     # Create map of MeetingID to required size (placeholder for now)
-    meeting_enrollment_map = {
-        meeting: random.randint(15, 80) for meeting in all_meetings
-    }
-    
+    # meeting_enrollment_map = {
+    #     meeting: random.randint(15, 80) for meeting in all_meetings
+    # }
+
+    # ANS B10: Small (30) - Can only hold 18095-A or 18095-B
+    # HH A104: Large (50) - The only room that can hold 18021-A1
+    meeting_enrollment_map = {'18021-A1': 28, '18095-A': 20, '18100-Lec1': 45}
+
     # Create map of Room to capacity (placeholder for now)
-    room_capacity_map = {
-        room: random.randint(30, 150) for room in limited_room_list
-    }
+    # room_capacity_map = {
+        
+    #     room: random.randint(30, 150) for room in limited_room_list
+    # }
+
+    room_capacity_map = {'ANS B10': 30, 'HH A104': 50}
+
     
     print(f"[Map] Total discrete time slots: {len(timeslots_list)}")
     print(f"[Map] Total unique meetings (sections/lectures) to schedule: {len(all_meetings)}")
@@ -152,7 +168,8 @@ def build_and_run_model(
         print(f"\n[DEBUG] Model Inputs: Meetings={num_meetings}, Rooms={num_rooms}, TimeSlots={num_timeslots}")
         print(f"[DEBUG] Total Binary Variables: {total_variables:,}")
 
-        days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+        # days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+        days = ["Mon"]
         slots_per_day = {day: [t for t in timeslots if t.startswith(day)] for day in days}
         
         # A typical Gurobi commercial license limit for unrestricted academic use is 2000 variables.
@@ -160,14 +177,43 @@ def build_and_run_model(
         # We must ensure this number is acceptable to Gurobi's license.
 
         x = {}
+        objective_expr = gp.LinExpr()
         count_vars = 0
+
+        # RESOURCE MINIMIZATION SETUP:
+        # We designate the second half of the room list as "Overflow/Expensive" rooms.
+        # This encourages the solver to PACK the first half of rooms before touching the rest.
+        num_rooms = len(rooms)
+        overflow_start_index = int(num_rooms * 0.5) 
+        sorted_rooms = sorted(rooms, key=lambda r: room_capacity[r]) # Sort small to large
+        
+        print("[Gurobi] Generating variables with Space Optimization weights...")
         
         for meeting in meetings:
             duration = meeting_duration[meeting]
-            for room in rooms:
-                # Capacity Check Pre-filter
-                if room_capacity[room] < meeting_enrollment[meeting]:
-                    continue # optimization: don't create var if room too small
+            enrollment = meeting_enrollment[meeting]
+
+            for r_idx, room in enumerate(sorted_rooms):
+                capacity = room_capacity[room]
+                
+                # 1. Hard Constraint Filter: Class must fit in room
+                if capacity < enrollment:
+                    continue
+                    
+                # --- CALCULATE SOFT CONSTRAINT COSTS ---
+                
+                # Cost A: Wasted Space (The "Snug Fit" Factor)
+                # If you put 10 students in a 100-seat room, cost is 90. 
+                wasted_space_cost = (capacity - enrollment)
+                
+                # Cost B: Resource Minimization (The "Overflow" Factor)
+                # If this room is in the 'overflow' half of the list, add a huge penalty
+                activation_cost = 0
+                if r_idx >= overflow_start_index:
+                    activation_cost = 1000 # High penalty to discourage using these rooms
+                
+                # Total Preference Weight for this specific assignment
+                total_weight = wasted_space_cost + activation_cost
                 
                 for day in days:
                     day_slots = slots_per_day[day]
@@ -176,8 +222,15 @@ def build_and_run_model(
                     
                     for i in range(valid_start_indices):
                         t_start = day_slots[i]
-                        x[meeting, t_start, room] = m.addVar(vtype=GRB.BINARY, name=f"x_{meeting}_{t_start}_{room}")
+
+                        # Add Variable
+                        var = m.addVar(vtype=GRB.BINARY, name=f"x_{meeting}_{t_start}_{room}")
+                        x[meeting, t_start, room] = var
                         count_vars += 1
+
+                        # Add to Objective Function
+                        # We want to MINIMIZE the total wasted space + overflow usage
+                        objective_expr.add(var, total_weight)
                         
         print(f"[DEBUG] Total Binary Variables Created: {count_vars:,}")
 
@@ -238,21 +291,11 @@ def build_and_run_model(
                 # This includes meetings that started at t, t-1, t-2 etc. depending on their duration
                 active_vars = get_active_vars_at_time(t, r, meetings)
                 if active_vars:
-                    m.addConstr(gp.quicksum(active_vars) <= 1, name=f"C2_Room_{r}_{t}")
-
-        
+                    m.addConstr(gp.quicksum(active_vars) <= 1, name=f"C2_Room_{r}_{t}")        
 
         # --- C3: Room Capacity must not be exceeded ---
         # Now redundant because we enforce room capacity before running solver
 
-        # print("[Gurobi] Adding C3: Room capacity.")
-        # m.addConstrs(
-        #     (gp.quicksum(meeting_enrollment[m] * x[m, t, r] for m in meetings) 
-        #      <= room_capacity[r]
-        #      for t in timeslots for r in rooms),
-        #     name="C3_Capacity"
-        # )
-        
         # --- C4: No Instructor Conflict ---
         print("[Gurobi] Adding C4: No instructor conflicts.")
         for instructor in all_instructors:
@@ -265,13 +308,6 @@ def build_and_run_model(
                 continue
             
             for t in timeslots:
-                # Sum of assignments for this instructor at time t must be <= 1
-                # m.addConstr(
-                #     gp.quicksum(x[m, t, r] 
-                #                 for m in meetings_by_instructor 
-                #                 for r in rooms) <= 1,
-                #     name=f"C4_InstConflict_{instructor.split(',')[0].replace(' ', '')}_{t}"
-                # )
                 # Instructor cannot be in ANY room at time t
                 # We need to sum over all rooms for the instructor's meetings active at t
                 expr = gp.LinExpr()
@@ -283,13 +319,25 @@ def build_and_run_model(
                 m.addConstr(expr <= 1, name=f"C4_Inst_{instructor}_{t}")
         
         # --- Objective: Feasibility (Find any valid schedule) ---
-        m.setObjective(0, GRB.MINIMIZE)
+        # m.setObjective(0, GRB.MINIMIZE)
+
+        # --- Objective: Minimize Wasted Space & Resource Usage ---
+        m.setObjective(objective_expr, GRB.MINIMIZE)
+
+        print("\n[Gurobi] Starting optimization (Optimizing for Room Usage)...")
+        m.optimize()
+
+        if m.Status == GRB.OPTIMAL:
+            print(f"\n--- ✅ Optimal Schedule Found! ---")
+            print(f"Total 'Inefficiency' Score: {m.ObjVal}")
+            print("(Lower score = tighter packing and less wasted seats)")
+            print_schedule(m, x, meeting_duration, meeting_instructors, meeting_enrollment, room_capacity)
 
         print("\n[Gurobi] Starting solver...")
         m.Params.OutputFlag = 1
         m.optimize()
 
-        print_schedule(m, x, meeting_duration, meeting_instructors)
+        print_schedule(m, x, meeting_duration, meeting_instructors, meeting_enrollment, room_capacity)
 
     except gp.GurobiError as e:
         print(f"\n--- ❌ Gurobi Error ---")
@@ -301,38 +349,7 @@ def build_and_run_model(
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
-# def print_schedule(model: gp.Model, x_vars: dict, meeting_instructors: Dict[str, List[str]]):
-#     """Helper function to print the resulting schedule."""
-#     if model.Status == GRB.OPTIMAL:
-#         print("\n--- ✅ Optimal Schedule Found! ---")
-#         schedule = {}
-#         for (m, t, r), v in x_vars.items():
-#             if v.X > 0.5:
-#                 if t not in schedule:
-#                     schedule[t] = []
-                
-#                 # Lookup instructor for a readable output
-#                 instructors = " & ".join(meeting_instructors.get(m, ["UNKNOWN"]))
-#                 schedule[t].append(f"[{m}] Taught by: {instructors} in Room: {r}")
-        
-#         # Print sorted by day and time
-#         day_order = {"Mon": 0, "Tue": 1, "Wed": 2, "Thu": 3, "Fri": 4}
-#         def sort_key(time_str):
-#             day, time = time_str.split('_')
-#             hour = int(time.split(':')[0])
-#             return (day_order.get(day, 99), hour)
-
-#         sorted_times = sorted(schedule.keys(), key=sort_key)
-        
-#         for t in sorted_times:
-#             print(f"\n{t}:")
-#             for entry in schedule[t]:
-#                 print(f"  {entry}")
-                
-#     else:
-#         print(f"\n--- ⚠️ Optimization finished with status: {model.Status} ---")
-
-def print_schedule(model, x_vars, duration_map, meeting_instructors):
+def print_schedule(model, x_vars, duration_map, meeting_instructors, meeting_enrollment, room_capacity):
     if model.Status == GRB.OPTIMAL:
         print("\n--- ✅ Schedule Generated ---")
         schedule = {}
@@ -344,6 +361,11 @@ def print_schedule(model, x_vars, duration_map, meeting_instructors):
                 dur = duration_map[m]
                 day, hour_str = t.split('_')
                 hour = int(hour_str.split(':')[0])
+
+                # Get stats for the printout
+                cap = room_capacity[r]
+                enr = meeting_enrollment[m]
+                instr = meeting_instructors[m][0] if meeting_instructors[m] else "Staff"
                 
                 # Mark every covered slot in the schedule
                 for i in range(dur):
@@ -353,8 +375,8 @@ def print_schedule(model, x_vars, duration_map, meeting_instructors):
                     if slot_key not in schedule: schedule[slot_key] = []
                     
                     note = "(Cont.)" if i > 0 else "(Start)"
-                    instr = meeting_instructors[m][0] if meeting_instructors[m] else "Staff"
-                    schedule[slot_key].append(f"{note} {m} [{dur}hr] | {instr} | {r}")
+                    entry = f"{note} {m} [{dur}hr] | {instr} | {r} (room cap: {cap}, enrollment: {enr})"
+                    schedule[slot_key].append(entry)
 
         # Sort and Print
         day_order = {"Mon": 0, "Tue": 1, "Wed": 2, "Thu": 3, "Fri": 4}
@@ -389,22 +411,3 @@ if __name__ == "__main__":
         capacity_map,
         duration_map
     )
-# ```
-
-# The script is now updated. Please run it again and provide the output, specifically looking for the new `[DEBUG]` lines that print the total variable count.
-
-# Once you provide the debug output, we can adjust `MAX_ROOMS_ALLOWED` to ensure the total number of binary variables is safely below the Gurobi limit (which is typically 2000 for restricted academic use).
-
-# ### Example output after my changes:
-
-# ```
-# [Data] Loading and mapping data from F24-Schedule-ECE.csv...
-# [Map] Original unique rooms found: 42. Using: 42 rooms.
-# [Map] Total discrete time slots: 70
-# [Map] Total unique meetings (sections/lectures) to schedule: 110
-
-# [DEBUG] Model Inputs: Meetings=110, Rooms=42, TimeSlots=70
-# [DEBUG] Total Binary Variables: 323,400
-
-# --- ❌ Gurobi Error ---
-# Error code 10010: Model too large for size-limited license
